@@ -1,7 +1,7 @@
 var friendsArray = [
     {
-        "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Spider-Man",
+        "photo":"https://images-na.ssl-images-amazon.com/images/I/7170lzV116L._SX425_.jpg",
         "scores":[
             5,
             1,
@@ -16,8 +16,8 @@ var friendsArray = [
           ]
       },
       {
-        "name":"someone else",
-        "photo":"photo",
+        "name":"Doggo",
+        "photo":"https://scontent-lga3-1.cdninstagram.com/vp/51b822fdda77fb8e938d77aabef010b1/5CD50B56/t51.2885-15/sh0.08/e35/s750x750/47582151_308423173212808_8628078381099575128_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&ig_cache_key=MTk0NjI3MjE1MzQ0MTUzNjczNQ%3D%3D.2",
         "scores":[
             5,
             5,
@@ -29,6 +29,22 @@ var friendsArray = [
             5,
             5,
             5
+          ]
+      },
+      {
+        "name":"Snake",
+        "photo":"https://i.pinimg.com/originals/1f/ad/46/1fad461530b427c4a7f45c7e8634664f.jpg",
+        "scores":[
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
           ]
       }
       
