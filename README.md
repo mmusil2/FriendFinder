@@ -20,4 +20,4 @@ Submit button brings up a modal of the best match
 Best match is found by looping through scores of other users and comparing the difference between the score of each question
 
 
-##### *Deplyed on Heroku*
+##### *Deployed on Heroku*
